@@ -1,6 +1,6 @@
 Package: SummarizedHeatmap
 Title: Heatmaps for SummarizedExperiment Objects
-Version: 1.0.0
+Version: 1.1.0
 Authors@R:
     person("Bradley", "Blaser", email = "bradley.blaser@osumc.edu",
            role = c("aut", "cre"),
